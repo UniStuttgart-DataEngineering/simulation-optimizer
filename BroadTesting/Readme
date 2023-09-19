@@ -1,0 +1,5 @@
+
+This folder contains the application of our approach to a variety of problems.
+The subfolder thermal1 contains the linear equation system with system matrix and right hand side.
+
+The CG-method in scipy is customized to have get the residual from the callback function. 
